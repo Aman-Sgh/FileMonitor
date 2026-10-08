@@ -1,0 +1,11 @@
+paths:
+  - "C:\\FIM\\important"
+
+scan:
+  recursive: true
+
+hash:
+  algorithm: sha256
+
+logging:
+  level: INFO
